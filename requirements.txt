@@ -5,6 +5,8 @@ matplotlib
 pandas
 streamlit
 openpyxl
+altair<5
+streamlit
 
 
 
